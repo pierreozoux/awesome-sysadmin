@@ -13,6 +13,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
   * [Distributed Filesystems](#distributed-filesystems)
   * [DNS](#dns)
+  * [Email management](#email-management)
   * [Hosting Control Panels](#hosting-control-panels)
   * [IMAP/POP3](#imappop3)
   * [IT Asset Management](#it-asset-management)
@@ -178,6 +179,16 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [PowerDNS](https://www.powerdns.com/) - DNS server with a variety of data storage back-ends and load balancing features.
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
+
+## Email management
+*Manage your email users*
+
+* [CYRUP](http://cyrup.sourceforge.net/) - web interface for virtual domains, mails and accounts management for mail systems based on postfix + cyrus + mysql/postgres setup.
+* [mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
+* [modoboa](https://github.com/tonioo/modoboa) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface.
+* [Postfix.admin](http://postfixadmin.sourceforge.net/) - Postfix Admin is a web based interface used to manage mailboxes, virtual domains and aliases.
+* [posty](https://www.posty-soft.org/) - THE open source administration tool for mail server with Postfix and Dovecot.
+* [ViMbAdmin](http://www.vimbadmin.net/) - The ViMbAdmin project (vim-be-admin) provides a web based virtual mailbox administration system allowing mail administrators to manage domains, mailboxes and aliases.
 
 ## Hosting Control Panels
 *Web hosting control panels*
